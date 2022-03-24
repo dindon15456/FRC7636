@@ -144,7 +144,7 @@ export default {
             },
             {
                 content1: "3",
-                content2: "Departments",
+                content2: "Deartments",
                 color: "blockColor2",
             },
             {
